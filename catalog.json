@@ -1,0 +1,1459 @@
+{
+	"head": {
+		"protocolVersion": "1.0",
+		"apiVersion": "1.0",
+		"playerDevMode": true,
+		"fromCache": true,
+		"serverName": "ttdu08 Anime Channel",
+		"processTime": "3.46ms",
+		"memoryUsage": "1.07 MB",
+		"memoryPeakUsage": "1.12 MB"
+	},
+	"body": [
+		{
+			"setNode": {
+				"id": "root",
+				"type": "root",
+				"children": [
+					{
+						"id": "channel:Trailer",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Marioshow",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Mirasaison4",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Mirasaison5",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Miraworld",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Music",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Film",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:Meme",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:ttdu08Direct",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					}
+				],
+				"version": "73dc61d9b2b6bfb373e4c0ae8bb9a5ae"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:trailer1",
+				"version": "55d29a3bf5f0ed8b98234f2b88911f4c",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 3,
+				"title": "ttdu08 Anime Channel",
+				"description": "Français: Bienvenue sur le serveur de ttdu08 Anime Channel développer par ttdu08, et mis à jour quotidiennement par Aserial (developpeur, manager) English: Welcome to the official server of ttdu08 developped by ttdu08 and managed every days by Aserial (developper, manager)",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/KuF-AKssWWvYGYGm/Nintendo%202DS%20-%20Announcement%20Trailer.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/KAsJGYBqg-JarEIb/video.moflex"
+				},
+				"viewCount": 0,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/Dw4jrl3ogou50pDj/maxresdefault3.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music2",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 10,
+				"title": "Louane - Secret",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/RcUm1P0r281GBSzR/Louane%20-%20Secret_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/eN7Ry3SO_JY4ayuj/maxresdefault10.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:mario1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "Le Show de Mario Chat - Episode 1",
+				"description": "Dans le futur, vous allez pouvoir voir la série entière du Show de Mario Chat ! Restez à l'écoute des dernières mises à jours ! In the future, you will be able to see the entire Mario Cat Show series! Stay tuned for the latest updates!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/Nm7jfjlKeeipnyj6/The%20Cat%20Mario%20Show%20Ep.%201EN.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/EsvL7HBpnDf16TeY/Le%20show%20de%20Mario%20chat%20FR.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/kpH-FJ9U2k41zVRJ/maxresdefault.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:mario2",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 0,
+				"title": "Le Show de Mario Chat - Episode 2",
+				"description": "Dans le futur, vous allez pouvoir voir la série entière du Show de Mario Chat ! Restez à l'écoute des dernières mises à jours ! In the future, you will be able to see the entire Mario Cat Show series! Stay tuned for the latest updates!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/SLFGJG-L0zgvAIBR/The%20Cat%20Mario%20Show%20Ep.%202EN.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/fXFlgL8I39jQMBsG/Le%20show%20de%20Mario%20chat%20-%20%C3%89pisode2FR.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/48WX4eAdg0X3Stsc/maxresdefault2.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 10,
+				"title": "Louane - Pardonne Moi",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/RCENg1qi6Ekodn8U/Louane%20-%20Pardonne-moi%20Clip%20Officiel.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/C1Pdy348YNOuAqnb/maxresdefault7.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:trailer2",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 12,
+				"title": "New Nintendo 3DS et New Nintendo 3DS XL - trailer",
+				"description": "Bande annonce de la New Nintendo 3DS et de la New Nintendo 3DS XL !",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/gRUHEBqObHyketAS/New%20Nintendo%203DS%20Preview.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/F4-pEwE-kRbUNGGT/Bande-annonce%20New%20Nintendo%203DS%20et%20New%20Nintendo%203DS%20XL.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/nmR2njGCiUzVb2x_/maxresdefault6.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:meme1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "Carte Kiwi Meme",
+				"description": "Tout est possible avec la carte Kiwi !",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/HU0Kh0zWlO7vJQ-H/Ancienne%20pub%20Carte%20Kiwi.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/wAuOXtJYqesNzKpT/maxresdefault5.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraworld1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 3,
+				"title": "Miraculous World - Les aventures de Toxynelle et Griffe Noir",
+				"description": "Maintenant disponible sur ttdu08 Anime Channel ! Le problème est maintenant résolu ! Now available on ttdu08 Anime Channel! The problem is now solved!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/Y_sn-USb7eGZERI-/EN004_400x240_1400kbps_24.000fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/BUANMGWrAtQM_YNY/MiraculousParisWorldFR.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/BuFw0fWTgxV6Dnkz/maxresdefault8.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason41",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Vérité - Truth Cinq épisodes sont ajouté chaque semaines ! Five episodes are added every week!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/nqFzX6_5AKmqrvbZ/EN401_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/UIZ3ifbVKbBFnHlj/Miraculous%20Saison%204%20Episode%201%20Verit%C3%A9%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason42",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Mensonge - Lies Cinq épisodes sont ajouté chaque semaines ! Five episodes are added every week!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/fvB0trD60k2ItJes/EN402.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/EXUgC8dfznHAhbSe/FR402.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason43",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 3,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Le gang des secrets - Gang of Secrets Cinq épisodes sont ajouté chaque semaines ! Five episodes are added every week!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/EfgUocvqKmTvneVb/EN403_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/Zy6ja43DOGj4VorJ/Miraculous%20Saison%204%20Episode%203%20Le%20gang%20des%20secret%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason44",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 4,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Mr. Pigeon ! Cinq épisodes sont ajouté chaque semaines ! Five episodes are added every week!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/pMMCJAfXxqXKKZf6/EN404_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/80xqx6Dq_rW9shew/Miraculous%20Saison%204%20Episode%204%20M.%20Pigeon%2072%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason45",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 5,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Psycomedien, Psycomedian. Cinq épisodes sont ajouté chaque semaines ! Five episodes are added every week!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/HLJQNdCU5rsfReeZ/EN405_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/GIlVyb5pvTKVnTXg/Miraculous%20Saison%204%20Episode%205%20Psycomedien%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason46",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 6,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Fu Furieux",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/rjx1LZColpwqz5Jl/Miraculous%20Ladybug%20Season%204%20Episode%206%20Fu%20Furious_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/LvAV7dWaPq_iOWqV/Miraculous%20Saison%204%20Episode%206%20Fu%20Furieux.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:mario3",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 3,
+				"ageRate": 0,
+				"title": "Le Show de Mario Chat - Episode 3",
+				"description": "Arrive prochainement ! Coming Soon !",
+				"mediaUrls": {
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/iHVRrQTUeDAHBVzw/maxresdefault11.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:trailer3",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 3,
+				"ageRate": 3,
+				"title": "Nintendo Switch - Trailer",
+				"description": "Arrive prochainement ! Coming Soon!",
+				"mediaUrls": {
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/iHVRrQTUeDAHBVzw/maxresdefault11.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:trailer4",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 4,
+				"ageRate": 0,
+				"title": "Update catalog",
+				"description": "Click here for update the catalog ! Clique ici pour actualiser le catalogue !",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/HFOX_WcfB11uhCVZ/Miraculybug%20Season%204%20Episode%207_400x240_1400kbps_23.976fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/iHVRrQTUeDAHBw/maxresdefault11.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason47",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 7,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Pirkell",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/HFOX_WcfB11uhCVZ/Miraculous%20Ladybug%20Season%204%20Episode%207_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/hjn4dWjPqa7XbOPP/Miraculous%20Saison%204%20Episode%207%20Pirkell%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason48",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 8,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Queen Banana",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/Wb7sT772ImfNJRbe/Miraculous%20Ladybug%20Season%204%20Episode%208_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/WfdHUZF_sKFR69RM/Miraculous%20Saison%204%20Episode%208%20Queen%20Banana%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason49",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 9,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Gabriel Agreste",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/69DFdVH15836fC2g/Miraculous%20Ladybug%20Season%204%20Episode%209_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/kCEtIh3S5jQiASAC/Miraculous%20Saison%204%20Episode%209%20Gabriel%20Agreste%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason410",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 10,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Sangure",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/ReTtHE_kUCpGuz40/Miraculous%20Ladybug%20Season%204%20Episode%2010_400x240_1400kbps_23.976fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/I2QF8lw6Uyf3D4jU/Miraculous%20Saison%204%20Episode%2010%20Sangsure%20Fr_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason411",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 11,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Culpabysse - Guiltrip",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/FdyXsrZSRQUqtkL-/EN411_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/JAtpnPnWAX6lzXZX/Miraculous%20Saison%204%20Episode%2011%20Culpabysse%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason412",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 12,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Crocoduel",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/8WfXxIvAnOAwQudc/EN412_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/iYdQdyhLtWiyeQKv/Miraculous%20Saison%204%20Episode%2012%20Crocoduel%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason413",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 13,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Optigami",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/eNGklnUt83DfiC1V/EN413_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/jE5CIu5FFS4o3-11/Miraculous%20Saison%204%20Episode%2013%20Optigami%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason414",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 14,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Sentibulleur - Sentibubbler",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/WGppc1J9BB9P7_dX/EN414_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/fORnfI_CN0DENBnE/Miraculous%20Saison%204%20Episode%2014%20Sentibulleur%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason415",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 15,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Glaciator 2",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/EfZnxztDHBduWaUp/EN415_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/nNlFxenwmDCFuT41/Miraculous%20Saison%204%20Episode%2015%20Glaciator%202%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason416",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 16,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Hack-San",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/5LHMxgu_JKxO_C-B/EN416_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/fMVtKM-AFan-T5DG/Miraculous%20Saison%204%20Episode%2016%20Hack-San%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason417",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 17,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Larme Ultime",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/AzNmWUJwsTBuWGSY/EN417_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/JuITF9JMiVPvOnL6/Miraculous%20Saison%204%20Episode%2017%20Larme%20Ultime%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason418",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 18,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Exauceur",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/ZRxkfLBLQVLQC_Ex/EN418_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/vd_SGvyOxJupl4tx/Miraculous%20Saison%204%20Episode%2018%20Exauceur%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason419",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 19,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Simplificator",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/bZBGrTViZN4AH_os/EN419_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/lUsnATiqkZSMufW1/Miraculous%20Saison%204%20Episode%2019%20Simplificator%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason420",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 20,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Qilin",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/FNM1SHIKWKomc8Kk/EN420_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/lmYLvJsHzPhc2QvB/Miraculous%20Saison%204%20Episode%2020%20Qilin%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason421",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 21,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Chere famille",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/bC9nC6xFmeRZgZPr/EN421_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/khVetPp794KL2bl1/Miraculous%20Saison%204%20Episode%2021%20Chere%20Famille%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason422",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 22,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Ephemere",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/-eh-TkXQs9bjWO7H/EN422_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/Zb4oK5dv9qOjmbAK/Miraculous%20Saison%204%20Episode%2022%20Ephemere%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason423",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 23,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/f11oWRVXFfkoPGxy/EN423_23.976fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+		
+
+		{
+			"setNode": {
+				"id": "episode:miraseason424",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 24,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Penalteam",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/ALrkMwAKvsaqqaQ4/EN424_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/aM01xx7pyL8AAzF4/Miraculous%20Saison%204%20Episode%2024%20Penalteam%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason425",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 25,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Risque",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/vYYdG50VHEgkFWJ0/EN425_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/X19zwtANuvHAxEeQ/Miraculous%20Saison%204%20Episode%2025%20Risque%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason426",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 26,
+				"ageRate": 10,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Replique",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/e3QwpvT5gq4oKcdg/EN426_23.976fps.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/0hAnLA3lh4PGDbiU/Miraculous%20Saison%204%20Episode%2026%20Replique%20Fr_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:film1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "Super Mario Bros : Le Film",
+				"description": "Un plombier nommé Mario parcourt un labyrinthe souterrain avec son frère, Luigi, essayant de sauver une princesse capturée. Adaptation cinématographique du célèbre jeu vidéo. / A plumber named Mario travels an underground maze with his brother, Luigi, trying to save a captured princess. Cinematographic adaptation of the famous video game.",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/g567hO1pVmAFlkdC/The%20Super%20Mario%20Bros%20Movie%20(2023)%201080p%20HDTS%20x264%20AAC%20-%20HushRips_400x240_1400kbps_25.000fps_2pass.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/iqMNx6nfpA-JqM5_/Super.Mario.Bros%20le.film.2023_400x240_1400kbps_23.976fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/BPrnQ_3f1VzKIrnV/maxresdefault12.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:film2",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "Sonic : Le Film",
+				"description": "Les mésaventures de Sonic, alors qu'il tente de naviguer dans la complexité de la vie sur Terre, aux côtés de son nouveau meilleur ami, Tom Wachowski, un humain. Sonic et Tom unissent leurs forces pour tenter d'empêcher le terrible Dr. Robotnik de capturer Sonic, ce dernier souhaitant utiliser son immense pouvoir pour dominer le monde.",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/iqMNx6nfpA-JqM5_/Super.Mario.Bros%20le.film.2023_400x240_1400kbps_23.976fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/hQAMU_syOANwZpwn/sonic.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music3",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 3,
+				"ageRate": 7,
+				"title": "Je partirais - Hoshi",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/XFdmBhamgPInpiDm/Hoshi%20-%20Je%20partirai%20(Clip%20Officiel)_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/7xzlkqHVkLjfZ0s7/maxresdefault13.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:miraseason51",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 0,
+				"ageRate": 7,
+				"title": "Miraculous - Les aventures de Ladybug et Chat Noir",
+				"description": "Nous commencerons à publier la saison 5 de Miraculous quand la saison 4 auras été totalement publié ! Pour l'instant, vous pouvez voir le générique ! We will start publishing season 5 of Miraculous when season 4 has been fully published! For now, you can watch the credits!",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/dAn8-yfAGjQcnOHL/ENGENERIQUE.moflex",
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/YYXgAMwddvGOCY29/FRGENERIQUE.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/y7pO7I9S6ouAbP-i/maxresdefault14.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music4",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 4,
+				"ageRate": 15,
+				"title": "Amour Censure - Hoshi",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/ujX3h-eZI2tI87z1/Hoshi%20-%20Amour%20censure%20(vid%C3%A9o%20sinc%C3%A8re)_400x240_1400kbps_29.970fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/RaDEi5jUpKuvAokk/maxresdefault15.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music7",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 7,
+				"ageRate": 7,
+				"title": "Mariah Carey - Want for Christmas is you",
+				"description": "Découvrer d'autres musiques que vous ne connaissez pas !",
+				"mediaUrls": {
+					"en": "https://ttdu08.freeboxos.fr:22194/share/z-lPzdLjmPFPNr5k/Mariah%20Carey%20-%20All%20I%20Want%20for%20Christmas%20Is%20You%20(Make%20My%20Wish%20Come%20True%20Edition)_23.976fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/C1vwM4E__wvpbWB7/maxresdefault18.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music5",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 5,
+				"ageRate": 7,
+				"title": "Kendji Girac - Le Feu ft Vianney",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/XPS-K_aEQUxbZ7pl/Kendji%20Girac%20-%20Le%20Feu%20ft%20%40vianneymusique%20(Clip%20Officiel)_400x240_1400kbps_25.000fps_2pass.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/B3TC65xwFGiIsOku/maxresdefault16.3dst"
+			    },
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music6",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 5,
+				"ageRate": 7,
+				"title": "Booba - 5G",
+				"description": "Discover French Rap",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/v5BYyyVy1yLXuQZD/Booba%20-%205G.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/B3TC65xwFGiIsOku/maxresdefault16.3dst"
+			    },
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music7",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 6,
+				"ageRate": 15,
+				"title": "Balance ton quoi - Angèle",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/dcO-BwFDj1nc391S/Ang%C3%A8le%20-%20Balance%20Ton%20Quoi.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/8Yu0qK11OeKvGiae/maxresdefault17.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music8",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 8,
+				"ageRate": 7,
+				"title": "Soprano - Forrest",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/ZxWFK_NcjjpAd4g7/Soprano%20-%20Forrest%20(Clip%20officiel)_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/9gOA6KN--pTE-8vP/maxresdefault19.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:music9",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 9,
+				"ageRate": 7,
+				"title": "Louane - Jour 1",
+				"description": "Discover French Music",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/W48nCnHo1s9GHmSe/Louane%20-%20JOUR%201%20(vid%C3%A9o%20officielle)_25.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/oGwL-Y92ZTaqfOw-/maxresdefaultlogo.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "episode:direct1",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 12,
+				"title": "ttdu08 Direct - 05.03.24",
+				"description": "Présente toutes les nouveauté de ttdu08 et de son groupe.",
+				"mediaUrls": {
+					"fr": "https://ttdu08.freeboxos.fr:22194/share/ITG46K875JWIY5XU/Rediffusion_60.000fps.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/RzU-NkY1SUdsEkED/08.03.24.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Trailer",
+				"type": "channel",
+				"title": "Bandes annonces - Trailers",
+				"eshopLinks": "ESHOP://50010000017453",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/KamWAS6o2F9pDS6O/2024-03-07_16-01-03.307_top.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:trailer1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:trailer2",
+						"version": "649f671be9bd0e2bf9fa18d73de07d57"
+					},
+					{
+						"id": "episode:trailer3",
+						"version": "649f671be9bd0e2bf9fa18d73de07d57"
+					},
+					{
+						"id": "episode:trailer4",
+						"version": "649f671be9bd0e2bf9fa18d73de07d57"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Marioshow",
+				"type": "channel",
+				"title": "Le Show de Mario Chat !",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/48WX4eAdg0X3Stsc/maxresdefault2.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:mario1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:mario2",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:mario3",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Music",
+				"type": "channel",
+				"title": "Musiques - Music",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/oGwL-Y92ZTaqfOw-/maxresdefaultlogo.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:music1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music2",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music3",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music4",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music5",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music6",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music7",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music8",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:music9",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Meme",
+				"type": "channel",
+				"title": "Meme",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/KamWAS6o2F9pDS6O/2024-03-07_16-01-03.307_top.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:meme1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Miraworld",
+				"type": "channel",
+				"title": "Miraculous World",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/BuFw0fWTgxV6Dnkz/maxresdefault8.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:miraworld1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Mirasaison4",
+				"type": "channel",
+				"title": "Miraculous - Saison 4",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/cED3I1w2QAFZTxP0/maxresdefault9.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:miraseason41",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason42",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason43",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason44",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason45",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason46",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason47",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason48",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason49",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason410",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason411",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason412",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason413",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason414",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason415",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason416",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason417",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason418",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason419",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason420",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason421",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason422",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason423",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason424",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason425",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason426",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Mirasaison5",
+				"type": "channel",
+				"title": "Miraculous - Saison 5",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/y7pO7I9S6ouAbP-i/maxresdefault14.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:miraseason51",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:ttdu08Direct",
+				"type": "channel",
+				"title": "ttdu08 Direct",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/RzU-NkY1SUdsEkED/08.03.24.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:miraseason41",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:miraseason42",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:Film",
+				"type": "channel",
+				"title": "Film",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://ttdu08.freeboxos.fr:22194/share/KamWAS6o2F9pDS6O/2024-03-07_16-01-03.307_top.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:film1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:film2",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		}
+	]
+}
